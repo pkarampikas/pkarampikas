@@ -29,3 +29,11 @@ Linux System Administration · Active Directory · Microsoft 365 · Proxmox
 Wireshark · Grafana · Icinga · SNMP
 
 ---
+🎓 Education
+
+**BSc in Informatics**  
+*Ionian University*
+
+**Bachelor's Thesis:** *Mapography – Mobile Crowdsensing Application*
+
+A research project exploring the use of **Machine Learning and mobile technologies** for supporting elderly people with **Alzheimer's disease**.
