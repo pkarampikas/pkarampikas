@@ -1,5 +1,7 @@
 Hi there 👋 I'm Panagiotis Karampikas
 
+---
+
 I'm a **System & Network Administrator** with a strong interest in networking, Linux, servers, and IT infrastructure.
 
 I enjoy troubleshooting technical problems, understanding how systems work, and building reliable and efficient environments. I'm always looking to improve my skills, learn new technologies, and take on new challenges.
