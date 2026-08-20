@@ -29,6 +29,22 @@ Linux System Administration · Active Directory · Microsoft 365 · Proxmox
 Wireshark · Grafana · Icinga · SNMP
 
 ---
+
+
+💼 Experience
+
+**System & Network Administrator**  
+*Landotech* · June 2024 – Present
+
+- Managing and maintaining IT infrastructure for multiple companies
+- Network and server administration
+- Network and system monitoring
+- Infrastructure troubleshooting and maintenance
+- Virtualization and system administration
+- Supporting reliable, secure, and efficient IT environments
+  
+---
+
 🎓 Education
 
 **BSc in Informatics**  
@@ -37,3 +53,6 @@ Wireshark · Grafana · Icinga · SNMP
 **Bachelor's Thesis:** *Mapography – Mobile Crowdsensing Application*
 
 A research project exploring the use of **Machine Learning and mobile technologies** for supporting elderly people with **Alzheimer's disease**.
+
+---
+
