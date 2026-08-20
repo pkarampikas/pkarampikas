@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Panagiotis Karampikas
+Hi there 👋 I'm Panagiotis Karampikas
 
 I'm a **System & Network Administrator** with a strong interest in networking, Linux, servers, and IT infrastructure.
 
