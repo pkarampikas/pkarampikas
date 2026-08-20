@@ -12,23 +12,19 @@ My work includes **network and server administration, infrastructure monitoring,
 
 ---
 
+ 🛠️ Skills & Technologies
 
-🛠️ Skills & Technologies
-
-**🌐 Networking**
+**🌐 Networking**  
 TCP/IP · Routing · VLANs · Subnetting · LAN Switching · NAT · DHCP · DNS · VPN · Network Troubleshooting · Network Design · Firewalls
 
-**📡 Network Infrastructure**
+**📡 Network Infrastructure**  
 Network Switches · SNMP · Wireshark · Network Monitoring · Network Infrastructure
 
-**📊 Monitoring & Observability**
-Grafana · Icinga · System Monitoring
+**📊 Monitoring & Observability**  
+**Grafana** · **Icinga** · System Monitoring
 
-**🖥️ Systems & Infrastructure**
+**🖥️ Systems & Infrastructure**  
 Linux System Administration · Active Directory · Microsoft 365 · Proxmox
-
-**🔧 Tools & Technologies**
-Wireshark · Grafana · Icinga · SNMP
 
 ---
 
