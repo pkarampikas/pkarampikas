@@ -9,7 +9,7 @@ Currently working at "Landotech", where I help manage and maintain IT infrastruc
 My work includes **network and server administration, infrastructure monitoring, troubleshooting, virtualization, and day-to-day IT operations**, with a focus on keeping systems reliable, secure, and efficient.
 
 
-### 🛠️ Skills & Technologies
+### [🛠️ Skills & Technologies]
 
 **🌐 Networking**
 TCP/IP · Routing · VLANs · Subnetting · LAN Switching · NAT · DHCP · DNS · VPN · Network Troubleshooting · Network Design · Firewalls
@@ -23,10 +23,6 @@ Grafana · Icinga · System Monitoring
 **🖥️ Systems & Infrastructure**
 Linux System Administration · Active Directory · Microsoft 365 · Proxmox
 
-**🔧 Tools & Technologies**
+**[🔧 Tools & Technologies**]
 Wireshark · Proxmox · Grafana · Icinga · SNMP
 
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
