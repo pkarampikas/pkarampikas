@@ -58,3 +58,6 @@ A research project exploring the use of **Machine Learning and mobile technologi
 
 ---
 
+🤝 Connect with me
+
+💼 [LinkedIn](https://www.linkedin.com/in/panagiotis-karampikas/)
